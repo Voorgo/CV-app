@@ -13,7 +13,7 @@
     "save-dev": "^0.0.1-security",
     "uuidv4": "^6.2.12",
     "web-vitals": "^2.1.4",
-    "homepage" : "https://voorgo.github.io"
+    "homepage" : "https://voorgo.github.io/cv-app"
   },
   "scripts": {
     "start": "react-scripts start",
