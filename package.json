@@ -2,6 +2,7 @@
   "name": "cv-app",
   "version": "0.1.0",
   "private": false,
+  "homepage" : "https://voorgo.github.io/CV-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
@@ -12,8 +13,7 @@
     "react-scripts": "5.0.0",
     "save-dev": "^0.0.1-security",
     "uuidv4": "^6.2.12",
-    "web-vitals": "^2.1.4",
-    "homepage" : "https://voorgo.github.io/CV-app/"
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
